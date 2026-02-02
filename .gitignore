@@ -1,0 +1,18 @@
+# Root level ignores
+node_modules/
+.env
+.env.local
+
+# Frontend
+.next/
+
+# .NET
+bin/
+obj/
+appsettings.json
+appsettings.Development.json
+
+# Editor
+.vscode/
+*.user
+*.suo
